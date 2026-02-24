@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UDPWrapper.cpp.obj": [
+			"UDPComponent.gen.cpp.obj",
+			"UDPWrapper.init.gen.cpp.obj",
+			"UDPComponent.cpp.obj",
+			"UDPWrapper.cpp.obj"
+		]
+	}
+}
