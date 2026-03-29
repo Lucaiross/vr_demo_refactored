@@ -20,4 +20,10 @@ I - Uložení rotace a výšky
 
 O - Nahrání rotace a výšky
 
+T - reset vr pozize a rotace
+
 '+' konzole
+
+
+
+pro nastavení scalability v config.json je low/medium/high/epic/cinematic
