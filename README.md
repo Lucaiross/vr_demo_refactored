@@ -6,7 +6,6 @@ A/D - otočení osy y
 
 X/Y - otočení osy z
 
-R - změna cesty
 
 H - viditelnost rukou
 
@@ -20,7 +19,7 @@ I - Uložení rotace a výšky
 
 O - Nahrání rotace a výšky
 
-T - reset vr pozize a rotace
+R - reset vr pozize a rotace
 
 '+' konzole
 
