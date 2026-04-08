@@ -1,1 +1,1 @@
-{"values":[{"race type":0,"lap to race":5,"ghost":true,"bots":true,"number of bots":3,"path":0,"start timer":3,"auto_ai":true}]}
+{"values":[{"race type":0,"lap to race":5,"ghost":true,"bots":false,"number of bots":3,"path":0,"start timer":3,"auto_ai":true,"auto_start":true,"using_overall_best_time":false}]}

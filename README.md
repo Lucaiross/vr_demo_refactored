@@ -10,7 +10,9 @@ H - viditelnost rukou
 
 V/B - výška
 
-P - zapnutí běhu
+T - start závodu pro všechny
+
+P - zapnutí běhu/stopnutí běhu
 
 K - zapnutí/vypnutí UI
 
